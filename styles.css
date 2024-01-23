@@ -1,0 +1,77 @@
+/* ======================================== 
+** Universal styles for the add-on:
+** Any CSS is found here, for aesthetics.
+** using: Bootstrap v5, no SASS, using CDN 
+** ========================================
+*/
+
+
+/* Tag level styles */
+body { 
+    display: block
+}
+
+/* Element level styles */
+
+.usr-input {
+    
+    border-radius: 5%;
+    box-shadow: 1;
+    font-size: 100%;
+
+}
+.btn-custom {
+   size: 100%; 
+}
+.btn-custom::before {
+     
+    margin: 10px, 10px, 0, 10px;
+    .go-btn:hover::after {
+        color: blanchedalmond;
+    }
+}
+
+.ddown-box {
+    margin: auto;
+}
+
+.prog-label {
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+}
+.prog-bar::before {
+    margin: auto;
+
+}
+
+/* Custom Utility Sizes*/
+.t-10 {
+    font-size: 10%;
+}
+.t-20 {
+    font-size: 20%;
+}
+.t-30 {
+    font-size: 30%;
+}
+.t-40 {
+    font-size: 40%;
+}
+.t-50 {
+    font-size: 50%;
+}
+.t-60 {
+    font-size: 60%;
+}
+.t-70 {
+    font-size: 70%;
+}
+.t-80 {
+    font-size: 80%;
+}
+.t-90 {
+    font-size: 90%;
+}
+
+/* Psuedo dynamic styles */
