@@ -5,14 +5,23 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Security-Policy" name="viewport" content="width=device-width, initial-scale=1, default-src 'self'; script-src 'self'"> 
     <title>MediaMov</title>
+
+    <!-- Header Link/Script Imports, Local & CDN-->
+    <script src="./src/data/error.js"></script>
+    <link href="./styles.css" rel="stylesheet" type="text/css">
+
   </head>
   <body>
     <div class="row row-1">
       <div class="col-lg-8 input-group">
-        <div class="input-group usr-input"></div>
-        <span>
+        <div class="input-group usr-input">
+          <input class="form-control" aria-errormessage="" aria-invalid="true" type="text"/>
+          <span ></span>
+        </div>
+      </div>
+        <div class="col-md-4 input-group">
           <button class="btn btn-custom" type="submit">Download</button>
-        </span>
+        </div>
       </div>
     <div class="row-2">
       <div class="ddown-box">
@@ -27,7 +36,8 @@
         <div></div>
       </div>
     </div>
-    <!-- js dependency and script references-->
+    <!-- JS Dependency & Script References-->
     <script src="./renderer.js"></script>
+    
   </body>
 </html>

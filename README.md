@@ -12,14 +12,14 @@
  <br/>
  
  Instead of being an add-on with minimal UI and controls, this application would     
- be capable of even installing an entire channels content! But with the fast changes    
- made to the YouTube (our intended target) and the lack of major support in general for      
- the `Java` language (its not the worst, but not the best either), on top of our constant     
- use of `JavaScript` for a whole plethora of other things, it just made sense to make a      
- small extension style app to get the job done in the meantime.       
+ be capable of even installing an entire channels content! This program is designed         
+ in JavaScript, specifically using Electron. For a more in depth look at the stack,    
+ check for the corresponding documentation. Overall this program did not end up being   
+ very large or in depth, therefore the docs will only consists of a few more Markdown    
+ files with light specifications.    
 
  <br/>
 
- Who knows, it might even be better! That is the full context of how this came about,      
- further info will be provided as the app is pushed further along in development.     
-
+ This includes the reason why this program ended up being a JavaScript creation rather    
+ than being straight Java. There is of course, so many downsides to using this platform      
+ compared to using JavaFX. 

@@ -1,0 +1,7 @@
+{
+    "err-msg": {
+        "invalid-url": "Please make sure the URL is properly formatted.",
+        "invalid-type": "You have entered a character that cannot be accepted.",
+        "missing-addr": "The URL you entered does not resolve to a valid address."
+    }
+}

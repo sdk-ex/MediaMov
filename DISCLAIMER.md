@@ -12,5 +12,10 @@
  a way that might cause trouble to a developer. If you want to do bad things, there is not      
  anything special about my software so there is literally no point in you using it. I dont     
  condone or approve of any behavior like this, nor do I sell or make any profit from it.      
- Please be respectful to what we are choosing to share. THIS SOFTWARE IS NOT OPEN SOURCE!      
- I RESERVE THE RIGHT TO RESTRICT USE TO ANYONE WHO HARMS ANYONE ELSE USING MY PRODUCTS!
+ Please be respectful to what we are choosing to share. 
+ 
+ 
+ ### Note:
+ 
+ THIS SOFTWARE IS NOT OPEN SOURCE! I RESERVE THE RIGHT TO RESTRICT       
+ USE TO ANYONE WHO HARMS ANYONE ELSE USING MY PRODUCTS!       
